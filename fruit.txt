@@ -12,3 +12,5 @@ kiwi
 melon
 melon
 blueberry
+grape
+strawberry
